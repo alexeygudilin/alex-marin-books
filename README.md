@@ -48,3 +48,30 @@ Together, *Topological Foundations of Intelligence* and *Cognitive Operating Sys
 *For readers interested in artificial intelligence, cognitive science, cybernetics, systems thinking, and the future of human–machine collaboration.*
 
 [View on Amazon](https://www.amazon.com/dp/B0H3MFX53L)
+---
+
+## The Mathematics of Thinking
+
+### How Structure Makes Thinking Possible
+
+*By Alex Marin and Alexey Gudilin · Kindle Edition*
+
+![Cover of The Mathematics of Thinking](<Изображение Codex 13 сент. 2026 г., 22_46_14.png>)
+
+**What happens between a question and an answer?**
+
+Why can the same action result from understanding, habit, imitation, or chance? Why can an error sometimes reveal more about thinking than a correct result? And what must be preserved for intelligence to learn, adapt, and revise its own decisions without losing coherence?
+
+*The Mathematics of Thinking* presents thinking not as a collection of isolated operations or as computation alone, but as organized movement through a space of possible states.
+
+Within this space, some transitions are immediately available, others require intermediate steps, some are blocked by constraints, and some do not yet exist for the system itself. Attention changes what becomes accessible. Meaning emerges from relations. Memory does more than store the past; it reshapes future transitions. Prediction brings possible futures into present decisions. Recursion allows thinking to return to its own models, errors, and criteria and to change the very way it moves forward.
+
+At the center of the book is a fundamental problem: thinking must change, or learning and adaptation are impossible. Yet change must not become disintegration. Which relations preserve coherence? What separates development from destruction? Why must stability be dynamic? And can topology provide a language for describing a structure that changes without losing its organization?
+
+This is not a mathematics textbook, nor an attempt to reduce intelligence to a single formula. No specialized mathematical background is required. Mathematics appears here as a language of states, relations, constraints, transformations, invariants, and reachability. Step by step, the book moves from observable behavior to a structural model of thinking and shows why formalization should begin not with symbols, but with a clear understanding of the object itself.
+
+*The Mathematics of Thinking* continues the research path opened in *Topological Foundations of Intelligence* and leads to the next question: if intelligence can move within a structure and transform the space of what is possible, how does it learn to discover stable relations and distinguish the structure of the world from patterns created by its own expectations?
+
+This book does not conclude the inquiry. It establishes the foundation for the next stage: mathematical formalization and *Machine Learning as the Search for Structure*.
+
+[View on Amazon](https://www.amazon.com/dp/B0HJP19HBK)
