@@ -75,3 +75,34 @@ This is not a mathematics textbook, nor an attempt to reduce intelligence to a s
 This book does not conclude the inquiry. It establishes the foundation for the next stage: mathematical formalization and *Machine Learning as the Search for Structure*.
 
 [View on Amazon](https://www.amazon.com/dp/B0HJP19HBK)
+---
+
+## The Adaptation Gap
+
+### Why the Speed of Change Has Become the New Vulnerability of the AI Era
+
+*By Alex Marin and Alexey Gudilin · Kindle Edition*
+
+*Part of [Cognitive Wars Series](https://www.amazon.com/dp/B0GZ46MK62)*
+
+![Cover of The Adaptation Gap](3ace40c7-bbb7-49a0-a78d-c1168ca0ac94.png)
+
+The world is changing faster than people, organizations, and institutions can adapt.
+
+This growing mismatch between the speed of change and the speed of adaptation is at the center of *The Adaptation Gap*.
+
+Artificial intelligence can generate text, analyze data, write code, and automate processes within minutes. Human learning, organizational transformation, verification, trust, and institutional change move much more slowly. As a result, technological acceleration does more than create new opportunities. It exposes weaknesses in systems that could previously remain hidden.
+
+Why does an abundance of information lead to cognitive overload? Why does automation not replace understanding? Why is verification becoming a new bottleneck in the age of AI? Why do large organizations adapt more slowly than small teams? And why is adaptability becoming an economic resource in its own right?
+
+This book examines these seemingly different problems as manifestations of the same structural mechanism.
+
+*The Adaptation Gap* proposes a different way of thinking about resilience. A resilient system is not necessarily the one that resists change most effectively or adopts new technologies first. True resilience is the capacity to change structure while preserving critical functions, responsibility, understanding, and direction.
+
+This is not a book about why artificial intelligence is dangerous. It is about what happens when technological development begins to move faster than the ability of people and the systems they create to change intelligently.
+
+In a world where advanced technologies are becoming accessible to everyone, the decisive advantage may no longer be access to the most powerful technology.
+
+It may be the **ability to adapt**.
+
+[View on Amazon](https://www.amazon.com/dp/B0HH8JY9KP)
