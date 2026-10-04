@@ -12,7 +12,7 @@ A catalogue of published and forthcoming books by Alex Marin.
 
 *By Alex Marin and Alexey Gudilin · Kindle Edition*
 
-![Cover of Topological Foundations of Intelligence](topological_foundations_of_intelligence_cover.jpg)
+![Cover of Topological Foundations of Intelligence](download.jpg)
 
 *Topological Foundations of Intelligence* is an interdisciplinary work proposing a new way of understanding intelligence. The book approaches intelligence not as a collection of answers, processing speed, or observable behavior, but as a structure capable of preserving coherence, invariants, and integrity under changing states.
 
